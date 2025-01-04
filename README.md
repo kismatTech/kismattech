@@ -1,7 +1,7 @@
 <img src="https://github.com/kismatTech/kismattech/blob/5d2aa6fa34d3911992c095242a00e659a2215e03/its%20me%20kismat%20duwadi%20(1).gif" alt="👋 Hi there! I'm Kismat Duwadi" title="👋 Hi there! I'm Kismat Duwadi" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 # 💫 About Me:
-Hi there 👋, I am Kismat Duwadi, a tech enthusiast with a passion for all things digital.<br>👀 I’m interested in Computer Networks, Web Development<br>🌱 I’m currently learning Computer Engineering<br>💞️ I’m looking to collaborate on fields like web development, database management and data structures<br>📫 Reach me out kismatduwadi123@gmail.com
+Hi there 👋, I am Kismat Duwadi, a tech enthusiast with a passion for all things digital.<br>👀 I’m interested in Computer Networks, Web Development<br>🌱 I’m currently learning Computer Engineering<br>💞️ I’m looking to collaborate on fields like web development, database management and data structures<br>📫 Reach me out info@kismatduwadi.com.np
 
 
 
